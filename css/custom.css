@@ -25,6 +25,10 @@ html::-webkit-scrollbar-corner {
     background:#82AFFF;
 }
 
+
+
+
+
 .markdown-body table {
     overflow-x: scroll; /* 设置自定义滚动条 */
 }
