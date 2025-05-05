@@ -4,6 +4,214 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2025/05/05/%E4%BD%9C%E7%94%A8%E5%9F%9F/"/>
+    <url>/2025/05/05/%E4%BD%9C%E7%94%A8%E5%9F%9F/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250417152217.png"></p><p><img src="/Pasted%20image%2020250417152619.png"><img src="/Pasted%20image%2020250417153007.png"></p><p><img src="/Pasted%20image%2020250417153104.png"><br><img src="/Pasted%20image%2020250417154352.png"></p><p>可以<br><img src="/Pasted%20image%2020250417154540.png"></p><p><img src="/Pasted%20image%2020250417154819.png"><br><img src="/Pasted%20image%2020250417155157.png"></p><p><img src="/Pasted%20image%2020250417155623.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <url>/2025/05/05/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</url>
+    
+    <content type="html"><![CDATA[<p>[![[)_<del>M</del>%VB0@PFF]MOVAW)AOP.png]]]()</p><p><img src="/Pasted%20image%2020240730161057.png"></p><p><img src="/Pasted%20image%2020240730161142.png"></p><p>基本数据类型：<br>整形：byte \ short \ int \ long<br>浮点型： float \ double<br>字符型： char<br>布尔型： boolean</p><p>引用数据类型：<br>类(class)<br>数组(array)<br>接口(interface)<br>枚举(enum)<br>注解(annotation)<br>记录(record)</p><p>空常量：null   ，代表数据不存在</p><h2 id="基本数据类型"><a href="#基本数据类型" class="headerlink" title="基本数据类型"></a>基本数据类型</h2><h3 id="整数类型-int"><a href="#整数类型-int" class="headerlink" title="整数类型(int)"></a>整数类型(int)</h3><p>Java的整形常量默认为 int 型，声明long型常量需后加 ‘l’ 或 ‘L’<br>int 型 4 个字节</p><h3 id="浮点类型-float-double"><a href="#浮点类型-float-double" class="headerlink" title="浮点类型(float   double)"></a>浮点类型(float   double)</h3><p>[![[)7X7HG9CB2MI_4]<a href="mailto:&#x44;&#68;&#x50;&#67;&#x4e;&#x40;&#x43;&#x45;&#x2e;&#112;&#x6e;&#x67;">DDPCN@CE.png</a>]]]()</p><p>Java的浮点型常量（具体小数）默认是double型，声明float型常量，需后加  ‘f’ 或 ‘F’<br>float型4个字节<br>当对运算结果是小数点进行相等判断时，应该是以两个数的差值的绝对值，在某个精度范围类判断</p><p>[![[K@<a href="mailto:&#72;&#x4d;&#x4f;&#76;&#x41;&#69;&#73;&#56;&#74;&#95;&#48;&#x35;&#x50;&#87;&#90;&#82;&#77;&#50;&#x4b;&#x40;&#79;&#46;&#112;&#x6e;&#103;">HMOLAEI8J_05PWZRM2K@O.png</a>]]]()</p><h3 id="字符类型-char"><a href="#字符类型-char" class="headerlink" title="字符类型(char)"></a>字符类型(char)</h3><p>[![[1]5Z$S9Q2R1)WXNKTV}EP6M.png]]]()</p><p>字符常量：’ ‘  ,单引号内必须且只能有一个内容，’ ‘ (一个空格)  ,  ‘一个TAB键’</p><p>[![[4C@UA64SRCUGF127%Y6[34S.png]]]()</p><h3 id="布尔类型"><a href="#布尔类型" class="headerlink" title="布尔类型"></a>布尔类型</h3><p>布尔常量：   true   false   不能带双引号</p><h3 id="强制类型转换"><a href="#强制类型转换" class="headerlink" title="强制类型转换"></a>强制类型转换</h3><p><img src="/Pasted%20image%2020250218171029.png"></p><p><img src="/Pasted%20image%2020250218172312.png"></p><p><img src="/Pasted%20image%2020250218173407.png"></p><p><img src="/Pasted%20image%2020250301145456.png"></p><p><img src="/Pasted%20image%2020250301145741.png"></p><p><img src="/Pasted%20image%2020250301151447.png"></p><p><img src="/Pasted%20image%2020250301153252.png"></p><p><img src="/Pasted%20image%2020250301154128.png"><img src="/Pasted%20image%2020250301154143.png"></p><p><img src="/Pasted%20image%2020250301155130.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E6%95%B0%E7%BB%84/"/>
+    <url>/2025/05/05/%E6%95%B0%E7%BB%84/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250310173109.png"><img src="/Pasted%20image%2020250310173631.png"></p><p><img src="/Pasted%20image%2020250310174414.png"><img src="/Pasted%20image%2020250310174924.png"></p><p><img src="/Pasted%20image%2020250310175155.png"><img src="/Pasted%20image%2020250310175204.png"></p><p><img src="/Pasted%20image%2020250310175222.png"><img src="/Pasted%20image%2020250310175257.png"></p><p><img src="/Pasted%20image%2020250310175935.png"></p><p><img src="/Pasted%20image%2020250310180358.png"><img src="/Pasted%20image%2020250310180416.png"></p><p><img src="/Pasted%20image%2020250310181117.png"><img src="/Pasted%20image%2020250310181236.png"></p><p><img src="/Pasted%20image%2020250310181250.png"><img src="/Pasted%20image%2020250310181306.png"></p><p><img src="/Pasted%20image%2020250311104848.png"></p><p><img src="/Pasted%20image%2020250311104828.png"></p><p><img src="/Pasted%20image%2020250311104918.png"></p><p><img src="/Pasted%20image%2020250311105014.png"></p><p><img src="/Pasted%20image%2020250311113102.png"><img src="/Pasted%20image%2020250311113113.png"><br><img src="/Pasted%20image%2020250311113132.png"></p><p><img src="/Pasted%20image%2020250311215825.png"><img src="/Pasted%20image%2020250311215927.png"></p><p><img src="/Pasted%20image%2020250311220125.png"></p><p><img src="/Pasted%20image%2020250311220141.png"><img src="/Pasted%20image%2020250311220223.png"></p><h1 id="命令行参数"><a href="#命令行参数" class="headerlink" title="命令行参数"></a>命令行参数</h1><p><img src="/Pasted%20image%2020250315150029.png"></p><h2 id="二维数组"><a href="#二维数组" class="headerlink" title="二维数组"></a>二维数组</h2><p><img src="/Pasted%20image%2020250315152251.png"></p><p><img src="/Pasted%20image%2020250315152219.png"><br><img src="/Pasted%20image%2020250315152232.png"></p><p><img src="/Pasted%20image%2020250315152342.png"></p><p><img src="/Pasted%20image%2020250315152402.png"></p><p><img src="/Pasted%20image%2020250315152454.png"><br><img src="/Pasted%20image%2020250315152506.png"><br><img src="/Pasted%20image%2020250315152516.png"></p><p><img src="/Pasted%20image%2020250315152538.png"></p><p><img src="/Pasted%20image%2020250315155003.png"></p><h1 id="不规则数组"><a href="#不规则数组" class="headerlink" title="不规则数组"></a>不规则数组</h1><p><img src="/Pasted%20image%2020250315163124.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    <url>/2025/05/05/%E8%BF%90%E7%AE%97%E7%AC%A6/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250301155344.png"></p><p><img src="/Pasted%20image%2020250301155402.png"></p><p><img src="/Pasted%20image%2020250305173329.png"><br><img src="/Pasted%20image%2020250308154720.png"></p><p><img src="/Pasted%20image%2020250305173351.png"></p><p><img src="/Pasted%20image%2020250305173537.png"></p><p><img src="/Pasted%20image%2020250305174218.png"></p><p><img src="/Pasted%20image%2020250305174236.png"></p><p><img src="/Pasted%20image%2020250306162218.png"></p><p><img src="/Pasted%20image%2020250306165557.png"></p><p><img src="/Pasted%20image%2020250306165608.png"></p><p><img src="/Pasted%20image%2020250308151203.png"></p><p><img src="/Pasted%20image%2020250308151239.png"><img src="/Pasted%20image%2020250308151429.png"></p><p><img src="/Pasted%20image%2020250308152339.png"><img src="/Pasted%20image%2020250308152352.png"><br><img src="/Pasted%20image%2020250308152402.png"><br><img src="/Pasted%20image%2020250308152452.png"><img src="/Pasted%20image%2020250308153054.png"></p><p><img src="/Pasted%20image%2020250308153127.png"><br><img src="/Pasted%20image%2020250308153136.png"><img src="/Pasted%20image%2020250308153212.png"><br><strong><img src="/Pasted%20image%2020250308153327.png"></strong></p><p><img src="/Pasted%20image%2020250308153431.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E9%87%8D%E8%BD%BD/"/>
+    <url>/2025/05/05/%E9%87%8D%E8%BD%BD/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250409133040.png"></p><p><img src="/Pasted%20image%2020250417101141.png"><br><img src="/Pasted%20image%2020250417101206.png"></p><p><img src="/Pasted%20image%2020250417101610.png">返回类型不同不构成重载</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E6%8E%92%E5%BA%8F&amp;%E6%9F%A5%E8%80%83/"/>
+    <url>/2025/05/05/%E6%8E%92%E5%BA%8F&amp;%E6%9F%A5%E8%80%83/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250312161528.png"><img src="/Pasted%20image%2020250312161544.png"></p><p><img src="/Pasted%20image%2020250312161714.png"></p><h2 id="案列分析"><a href="#案列分析" class="headerlink" title="案列分析"></a>案列分析</h2><h2 id="D-javacode-2-BubbleSort-java"><a href="#D-javacode-2-BubbleSort-java" class="headerlink" title="D:\javacode\2\BubbleSort.java"></a>D:\javacode\2\BubbleSort.java</h2><h1 id="数组排序"><a href="#数组排序" class="headerlink" title="数组排序"></a>数组排序</h1><p>Arrays.sort(A)<br>优化的快速排序算法<br><img src="/Pasted%20image%2020250315152005.png"></p><p><img src="/Pasted%20image%2020250312170628.png"></p><p><img src="/Pasted%20image%2020250312170913.png"><img src="/Pasted%20image%2020250312172016.png"><br><img src="/Pasted%20image%2020250312172024.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/"/>
+    <url>/2025/05/05/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250319224239.png"></p><p><img src="/Pasted%20image%2020250319224103.png"></p><p><img src="/Pasted%20image%2020250319224346.png">-*&#x2F;<br><img src="/Pasted%20image%2020250319225026.png"><br><img src="/Pasted%20image%2020250319225201.png"><img src="/Pasted%20image%2020250319225222.png"></p><h4 id="字段最准确"><a href="#字段最准确" class="headerlink" title="字段最准确"></a>字段最准确</h4><p><img src="/Pasted%20image%2020250319225333.png"><img src="/Pasted%20image%2020250319225351.png"></p><p><img src="/Pasted%20image%2020250319225500.png"><img src="/Pasted%20image%2020250319225521.png"></p><p><img src="/Pasted%20image%2020250319225616.png"></p><p><img src="/Pasted%20image%2020250319225753.png"><img src="/Pasted%20image%2020250319225845.png"></p><p><img src="/Pasted%20image%2020250319225906.png"></p><p><img src="/Pasted%20image%2020250319225929.png"><br><img src="/Pasted%20image%2020250322162204.png"></p><p><img src="/Pasted%20image%2020250322162241.png"><br><img src="/Pasted%20image%2020250322162741.png"><br><img src="/Pasted%20image%2020250322162802.png"><br><img src="/Pasted%20image%2020250322162815.png"><br><img src="/Pasted%20image%2020250322172608.png"><br><img src="/Pasted%20image%2020250322172724.png"><br><img src="/Pasted%20image%2020250323160324.png"><br><img src="/Pasted%20image%2020250323160907.png"><br><img src="/Pasted%20image%2020250323160734.png"><br><img src="/Pasted%20image%2020250323160816.png"><br><img src="/Pasted%20image%2020250323160825.png"><br><img src="/Pasted%20image%2020250323160846.png"><br><img src="/Pasted%20image%2020250323161013.png"><br><img src="/Pasted%20image%2020250323161053.png"><br><img src="/Pasted%20image%2020250323161538.png"><br><img src="/Pasted%20image%2020250323161614.png"><br><img src="/Pasted%20image%2020250323161622.png"><br><img src="/Pasted%20image%2020250323161723.png"><br><img src="/Pasted%20image%2020250323161734.png"><br><img src="/Pasted%20image%2020250324221028.png"><br><img src="/Pasted%20image%2020250324222833.png"><br><img src="/Pasted%20image%2020250324223054.png"><br><img src="/Pasted%20image%2020250324223810.png"><br><img src="/Pasted%20image%2020250324223821.png"><br><img src="/Pasted%20image%2020250324223852.png"><br><img src="/Pasted%20image%2020250326162443.png"><br><img src="/Pasted%20image%2020250326162246.png"><br><img src="/Pasted%20image%2020250326162718.png"></p><p><img src="/Pasted%20image%2020250326164419.png"><br><img src="/Pasted%20image%2020250326163521.png"><br><img src="/Pasted%20image%2020250326165706.png"><br><img src="/Pasted%20image%2020250326170707.png"><br><img src="/Pasted%20image%2020250326171124.png"><br><img src="/Pasted%20image%2020250326171230.png"><br><img src="/Pasted%20image%2020250326171242.png"><br><img src="/Pasted%20image%2020250326171602.png"><br><img src="/Pasted%20image%2020250326171530.png"><br><img src="/Pasted%20image%2020250326171620.png"><br><img src="/Pasted%20image%2020250326171502.png"></p><p><img src="/Pasted%20image%2020250417160019.png"><br><img src="/Pasted%20image%2020250417160214.png"><br><img src="/Pasted%20image%2020250417160617.png"><br><img src="/Pasted%20image%2020250417160929.png"><br><img src="/Pasted%20image%2020250417171236.png"></p><p><img src="/Pasted%20image%2020250417171416.png"><br><img src="/Pasted%20image%2020250417171723.png"></p><p><img src="/Pasted%20image%2020250417171742.png"></p><p><img src="/Pasted%20image%2020250417172312.png"><br><img src="/Pasted%20image%2020250417172330.png"></p><p><img src="/Pasted%20image%2020250417172352.png"><br><img src="/Pasted%20image%2020250417172941.png"></p><p><img src="/Pasted%20image%2020250417173005.png"><br><img src="/Pasted%20image%2020250417173028.png"></p><p><img src="/Pasted%20image%2020250322112609.png"></p><p><img src="/Pasted%20image%2020250322112622.png"></p><p><img src="/Pasted%20image%2020250322112636.png"></p><p><img src="/Pasted%20image%2020250322112647.png"></p><p><img src="/Pasted%20image%2020250322112705.png"></p><p><img src="/Pasted%20image%2020250322112944.png"></p><p><img src="/Pasted%20image%2020250322113006.png"><br><img src="/Pasted%20image%2020250322113019.png"></p><p><img src="/Pasted%20image%2020250322113031.png"><br><img src="/Pasted%20image%2020250322113825.png"><br><img src="/Pasted%20image%2020250322113926.png"><br><img src="/Pasted%20image%2020250322114010.png"><br><img src="/Pasted%20image%2020250322114017.png"><img src="/Pasted%20image%2020250326163943.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/"/>
+    <url>/2025/05/05/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250308154929.png"></p><p><img src="/Pasted%20image%2020250308155016.png"><img src="/Pasted%20image%2020250308155035.png"><br><img src="/Pasted%20image%2020250308155150.png"><img src="/Pasted%20image%2020250308155205.png"></p><p><img src="/Pasted%20image%2020250308155235.png"></p><p><img src="/Pasted%20image%2020250308155337.png"><img src="/Pasted%20image%2020250308155344.png"><br><img src="/Pasted%20image%2020250308155409.png"></p><p><img src="/Pasted%20image%2020250308155704.png"></p><p><img src="/Pasted%20image%2020250309140930.png"><img src="/Pasted%20image%2020250309141043.png"></p><p><img src="/Pasted%20image%2020250309142318.png"><br><img src="/Pasted%20image%2020250309142558.png"><img src="/Pasted%20image%2020250309142914.png"></p><p><img src="/Pasted%20image%2020250309143620.png"><img src="/Pasted%20image%2020250309143727.png"></p><p><img src="/Pasted%20image%2020250309143841.png"></p><p><img src="/Pasted%20image%2020250309144048.png"><img src="/Pasted%20image%2020250309144758.png"></p><p><img src="/Pasted%20image%2020250309144821.png"></p><p><img src="/Pasted%20image%2020250309145002.png"><img src="/Pasted%20image%2020250309145106.png"></p><p><img src="/Pasted%20image%2020250309145202.png"></p><p><img src="/Pasted%20image%2020250309145336.png"><img src="/Pasted%20image%2020250309145843.png"></p><p><img src="/Pasted%20image%2020250309145917.png"><img src="/Pasted%20image%2020250309150422.png"></p><p><img src="/Pasted%20image%2020250309153836.png"><img src="/Pasted%20image%2020250309154013.png"></p><p><img src="/Pasted%20image%2020250309170101.png"></p><p><img src="/Pasted%20image%2020250309170437.png"></p><p><img src="/Pasted%20image%2020250309170700.png"></p><p><img src="/Pasted%20image%2020250309170709.png"><img src="/Pasted%20image%2020250309170907.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E8%BE%93%E5%85%A5/"/>
+    <url>/2025/05/05/%E8%BE%93%E5%85%A5/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250308153846.png"></p><p><img src="/Pasted%20image%2020250308153933.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0/"/>
+    <url>/2025/05/05/%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250417150640.png"></p><p><img src="/Pasted%20image%2020250417150757.png"></p><p><img src="/Pasted%20image%2020250417150955.png"><img src="/Pasted%20image%2020250417151225.png"></p><p><img src="/Pasted%20image%2020250417151335.png"><img src="/Pasted%20image%2020250417151735.png"></p><p><img src="/Pasted%20image%2020250417151856.png"></p><p><img src="/Pasted%20image%2020250417152130.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E5%8C%85/"/>
+    <url>/2025/05/05/%E5%8C%85/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250428152703.png"><br><img src="/Pasted%20image%2020250428152954.png"><br><img src="/Pasted%20image%2020250428152944.png"></p><p>package01.java</p><p><img src="/Pasted%20image%2020250428154204.png"><img src="/Pasted%20image%2020250428154319.png"></p><p><img src="/Pasted%20image%2020250428154411.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E8%BF%9B%E5%88%B6%20&amp;%20%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+    <url>/2025/05/05/%E8%BF%9B%E5%88%B6%20&amp;%20%E4%BD%8D%E8%BF%90%E7%AE%97/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250308154017.png"></p><p><img src="/Pasted%20image%2020250308154348.png"></p><p><img src="/Pasted%20image%2020250308154438.png"></p><p><img src="/Pasted%20image%2020250308154541.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E9%80%92%E5%BD%92/"/>
+    <url>/2025/05/05/%E9%80%92%E5%BD%92/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250326171817.png"><br><img src="/Pasted%20image%2020250326174731.png"><br><img src="/Pasted%20image%2020250326173930.png"><br><img src="/Pasted%20image%2020250326174643.png"><br><img src="/Pasted%20image%2020250326174808.png"></p><p><img src="/Pasted%20image%2020250326190157.png"><br><img src="/Pasted%20image%2020250326190140.png"><br><img src="/Pasted%20image%2020250326190150.png"><br><img src="/Pasted%20image%2020250326190553.png"><img src="/Pasted%20image%2020250326191505.png"><br><img src="/Pasted%20image%2020250326191513.png"></p><p><img src="/Pasted%20image%2020250326192713.png"><br><img src="/Pasted%20image%2020250326194009.png"><br><img src="/Pasted%20image%2020250327153835.png"><br><img src="/Pasted%20image%2020250327153850.png"><br><img src="/Pasted%20image%2020250327153904.png"><br><img src="/Pasted%20image%2020250327153913.png"><br><img src="/Pasted%20image%2020250327153401.png"><br><img src="/Pasted%20image%2020250327153304.png"><br><img src="/Pasted%20image%2020250327153124.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/idea%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <url>/2025/05/05/idea%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    
+    <content type="html"><![CDATA[<p>删除当前行   ctrl + y<br>复制当前行   ctrl + d</p><p>补全代码  alt + &#x2F;<br>添加注释和取消注释   ctrl + &#x2F;</p><p>自动导入需要的类    alt + enter<br>快速格式化代码   ctrl + alt + L</p><p>运行  shift + f10</p><p>生成构造器等   alt + shift + z</p><p>查看一个类的层级关系   鼠标光标选中后  ctrl + h</p><p>把光标放在方法或变量上    输入  ctrl + b 或   ctrl  + 鼠标左键  可以定位</p><p>自动的分配变量名  ，通过在后面   +  .var    或快捷键   alt  + shift + v</p><p>模板  ：设置  -&gt;  编辑器   -&gt;   实时模板    -&gt;   java<br>记录其中的快捷内容</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/this%E5%85%B3%E9%94%AE%E5%AD%97/"/>
+    <url>/2025/05/05/this%E5%85%B3%E9%94%AE%E5%AD%97/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/Pasted%20image%2020250420201854.png"></p><p><img src="/Pasted%20image%2020250420202042.png"><br><img src="/Pasted%20image%2020250420202317.png"></p><p><img src="/Pasted%20image%2020250420210551.png"><br><img src="/Pasted%20image%2020250420210609.png"><br><img src="/Pasted%20image%2020250420210651.png"><br><img src="/Pasted%20image%2020250420210704.png"><br><img src="/Pasted%20image%2020250420210713.png"><br><img src="/Pasted%20image%2020250420210839.png"><br><img src="/Pasted%20image%2020250420210847.png"><br><img src="/Pasted%20image%2020250420210901.png"></p><p><img src="/Pasted%20image%2020250420210741.png"></p><p><img src="/Pasted%20image%2020250420210921.png"></p><p><img src="/Pasted%20image%2020250420211240.png"></p><p><img src="/Pasted%20image%2020250420211604.png"></p><p><img src="/Pasted%20image%2020250420211718.png"></p><p><img src="/Pasted%20image%2020250420211736.png"></p><p><img src="/Pasted%20image%2020250420211942.png"><br><img src="/Pasted%20image%2020250420211919.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/05/05/%E5%9F%BA%E7%A1%80/"/>
+    <url>/2025/05/05/%E5%9F%BA%E7%A1%80/</url>
+    
+    <content type="html"><![CDATA[<p>JDK &#x3D; JRE + java开发工具<br>JRE &#x3D; JVM + 核心类库</p><p>javac 编译，得到对应的 .class 字节码文件<br>java 运行，本质就是把 .class 加载到 jvm 运行</p><p>凡是自己可以起名字的都叫标识符，<br>例如：类名，方法名，变量名，常量名等</p><p>标识符命名规则：<br>1.26个英文字母大小写    0-9    __ 或 $<br>2.数字不可以开头<br>3.不可以使用关键字和保留字，但能包含<br>4.严格区分大小写，长度无限制<br>5.不能含空格<br><img src="/Pasted%20image%2020250308153459.png"><br><img src="/Pasted%20image%2020250308153640.png"></p><p>命名规范：<br>1.包名：多单词组成时所有字母都小写<br>2.类名，接口名：多单词组成时，所有单词首字母大写<br>3.变量名，方法名：多单词组成时，第一个单词首字母小写，后续单词首字母大写<br>4.常量名：所有字母大写，多单词时各单词用下划线连接<br><img src="/Pasted%20image%2020250308153659.png"></p><p>+号的使用<br>当左右两边都是数值型时，做加法运算<br>当左右两边有一边为字符串，则做拼接运算<br>顺序从左至右</p><p><img src="/Pasted%20image%2020250301155249.png"></p><p><img src="/Pasted%20image%2020250308153750.png"><img src="/Pasted%20image%2020250308153818.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2025/05/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2025/05/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
