@@ -1,9 +1,0 @@
-/* 站点标题颜色修改 */
-#site-title {
-    color: #ffffff !important; /* 替换为你的颜色值，如十六进制或RGB */
-  }
-  
-  /* 文章内标题颜色修改 */
-  .post-title h1 {
-    color: #ffffff !important;
-  }
