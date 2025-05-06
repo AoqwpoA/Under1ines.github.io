@@ -4,19 +4,6 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2025/05/05/%E5%9F%BA%E7%A1%80/"/>
-    <url>/2025/05/05/%E5%9F%BA%E7%A1%80/</url>
-    
-    <content type="html"><![CDATA[<p>JDK &#x3D; JRE + java开发工具<br>JRE &#x3D; JVM + 核心类库</p><p>javac 编译，得到对应的 .class 字节码文件<br>java 运行，本质就是把 .class 加载到 jvm 运行</p><p>凡是自己可以起名字的都叫标识符，<br>例如：类名，方法名，变量名，常量名等</p><p>标识符命名规则：<br>1.26个英文字母大小写    0-9    __ 或 $<br>2.数字不可以开头<br>3.不可以使用关键字和保留字，但能包含<br>4.严格区分大小写，长度无限制<br>5.不能含空格<br><img src="/Pasted%20image%2020250308153459.png"><br><img src="/Pasted%20image%2020250308153640.png"></p><p>命名规范：<br>1.包名：多单词组成时所有字母都小写<br>2.类名，接口名：多单词组成时，所有单词首字母大写<br>3.变量名，方法名：多单词组成时，第一个单词首字母小写，后续单词首字母大写<br>4.常量名：所有字母大写，多单词时各单词用下划线连接<br><img src="/Pasted%20image%2020250308153659.png"></p><p>+号的使用<br>当左右两边都是数值型时，做加法运算<br>当左右两边有一边为字符串，则做拼接运算<br>顺序从左至右</p><p><img src="/Pasted%20image%2020250301155249.png"></p><p><img src="/Pasted%20image%2020250308153750.png"><img src="/Pasted%20image%2020250308153818.png"></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>测试文章</title>
     <link href="/2025/05/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2025/05/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
